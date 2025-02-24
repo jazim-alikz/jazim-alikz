@@ -1,9 +1,14 @@
 ## Hi there I'M Jazim 👋
 🌱 I’m currently learning 
+
 📫 Contact:m.jazimali11@gmail.com
+
 🌏 Location: Pakistan, Karachi 
+
 💬 Language:
+
 . English 
+
 . Urdu 
 <!--
 **jazim-alikz/jazim-alikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
