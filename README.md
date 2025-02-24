@@ -4,7 +4,9 @@
 
 
 
-📫 How to reach me:m.jazimali11@gmail.com
+📫 Contact:m.jazimali11@gmail.com
+
+
 
 
 <!--
