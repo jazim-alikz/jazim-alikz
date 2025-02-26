@@ -1,7 +1,9 @@
 ## Hi there I'm Jazim Ali👋
-🌱 I’m currently learning -
-📫 Contact:m.jazimali11@gmail.com -
-🌏 Location: Pakistan, Karachi -
+🌱 I’m currently learning
+-
+📫 Contact:m.jazimali11@gmail.com
+-
+🌏 Location: Pakistan, Karachi 
 -----
 💬 Language:
 
